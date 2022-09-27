@@ -29,6 +29,7 @@ body{
 #searchhere {
     border: none;
     width: 80%;
+    margin-right: 5px;
 }
 
 .recent {
@@ -44,4 +45,8 @@ body{
     padding: 5px;
     width:40%;
     border-radius: 50px;
+}
+
+:hover #btn{
+    cursor: pointer;
 }
