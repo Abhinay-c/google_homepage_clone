@@ -30,7 +30,7 @@ body{
     border: none;
     width: 80%;
     margin-right: 5px;
-    margin-left: 5px;
+    margin-left: 10px;
 }
 
 .recent {
@@ -48,6 +48,6 @@ body{
     border-radius: 50px;
 }
 
-:hover #btn{
+#btn{
     cursor: pointer;
 }
