@@ -49,5 +49,6 @@ body{
 }
 
 #btn{
+    border-radius: 25px;
     cursor: pointer;
 }
