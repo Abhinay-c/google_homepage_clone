@@ -25,12 +25,12 @@ body{
     height: 20%;
     border-radius: 30px;
     margin-top:15px;
-    padding: 6px;
+    padding: 6px 6px 6px 12px;
 }
 
 #searchhere {
     border: none;
-    width: 80%;
+    width: 75%;
 }
 
 .recent {
